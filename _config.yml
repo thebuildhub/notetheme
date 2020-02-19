@@ -1,6 +1,6 @@
 title: Test-Notes
 description: You can remember everything.
-baseurl: "/notetheme"
+baseurl: ""
 url: "thebuildhub.github.io"
 repository: thebuildhub/notetheme
 paginate: 28
