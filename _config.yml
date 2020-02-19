@@ -6,13 +6,13 @@ repository: thebuildhub/notetheme
 paginate: 28
 
 banner: "/assets/res/banner.png" # site banner (load when someone share your page url)
-favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page)
+favicon: # "/assets/res/favicon.png" # site's favicon (icon left side of your page)
 
 # MatJek specific configurations
 user: 
   name: "Mohit Joshi"
-  email: "dinhanhthimail@gmail.com"
-  website: "math2it.com"
+  email: "mohit9451joshi@gmail.com"
+  website: ""
   avatar: "/assets/res/user.png"
   github: "dinhanhthi"
 google_tracking_id: ""
